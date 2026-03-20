@@ -1,0 +1,48 @@
+{
+  "carry_probe": {
+    "compiled": {
+      "1": {
+        "train_acc": 1.0,
+        "test_acc": 1.0
+      },
+      "2": {
+        "train_acc": 0.9983,
+        "test_acc": 0.9933
+      },
+      "3": {
+        "train_acc": 0.9975,
+        "test_acc": 0.9975
+      },
+      "4": {
+        "train_acc": 0.9995,
+        "test_acc": 0.998
+      },
+      "5": {
+        "train_acc": 1.0,
+        "test_acc": 1.0
+      }
+    },
+    "trained": {
+      "1": {
+        "train_acc": 1.0,
+        "test_acc": 1.0
+      },
+      "2": {
+        "train_acc": 0.9525,
+        "test_acc": 0.92
+      },
+      "3": {
+        "train_acc": 0.7906,
+        "test_acc": 0.7625
+      },
+      "4": {
+        "train_acc": 0.7715,
+        "test_acc": 0.748
+      },
+      "5": {
+        "train_acc": 0.7854,
+        "test_acc": 0.7767
+      }
+    }
+  }
+}
